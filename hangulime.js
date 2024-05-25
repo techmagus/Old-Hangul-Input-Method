@@ -238,7 +238,7 @@ var jamo_init_n_g  = new Jamo(jamo_init_n,  "sr", JAMO_INITIAL, 'ᄓ', undefined
 //var jamo_init_d_g  = new Jamo(jamo_init_d,  "er", JAMO_INITIAL, 'ᄗ', undefined);
 //var jamo_init_d_r  = new Jamo(jamo_init_d,  "ef", JAMO_INITIAL, 'ᅞ', undefined);
 //var jamo_init_r_n  = new Jamo(jamo_init_r,  "fs", JAMO_INITIAL, 'ᄘ', undefined);
-var jamo_init_r_r  = new Jamo(jamo_init_r,  "ff", JAMO_INITIAL, 'ᄙ', undefined);
+//var jamo_init_r_r  = new Jamo(jamo_init_r,  "ff", JAMO_INITIAL, 'ᄙ', undefined);
 //var jamo_init_r_h  = new Jamo(jamo_init_r,  "fg", JAMO_INITIAL, 'ᄚ', undefined);
 //var jamo_init_r_S  = new Jamo(jamo_init_r,  "fS", JAMO_INITIAL, 'ᄛ', undefined);
 //var jamo_init_m_b  = new Jamo(jamo_init_m,  "aq", JAMO_INITIAL, 'ᄜ', undefined);
@@ -476,7 +476,7 @@ var jamo_fin_n_g   = new Jamo(jamo_fin_n,  "sr", JAMO_FINAL, 'ᇅ', "ᆫᄀ");
 //var jamo_fin_r_h   = new Jamo(jamo_fin_r,  "fg", JAMO_FINAL, 'ᆶ', "ᆯᄒ");
 //var jamo_fin_r_n   = new Jamo(jamo_fin_r,  "fs", JAMO_FINAL, 'ᇍ', "ᆯᄂ");
 //var jamo_fin_r_d   = new Jamo(jamo_fin_r,  "fe", JAMO_FINAL, 'ᇎ', "ᆯᄃ");
-var jamo_fin_r_r   = new Jamo(jamo_fin_r,  "ff", JAMO_FINAL, 'ᇐ', "ᆯᄅ");
+  //var jamo_fin_r_r   = new Jamo(jamo_fin_r,  "ff", JAMO_FINAL, 'ᇐ', "ᆯᄅ");
 //var jamo_fin_r_z   = new Jamo(jamo_fin_r,  "fA", JAMO_FINAL, 'ᇗ', "ᆯᅀ");
 //var jamo_fin_r_k   = new Jamo(jamo_fin_r,  "fz", JAMO_FINAL, 'ᇘ', "ᆯᄏ");
 //var jamo_fin_r_q   = new Jamo(jamo_fin_r,  "fG", JAMO_FINAL, 'ᇙ', "ᆯᅙ");
@@ -629,7 +629,7 @@ var list_jamo_init = [
   //jamo_init_d_g,
   //jamo_init_d_r,
   //jamo_init_r_n,
-  jamo_init_r_r,
+  //jamo_init_r_r,
   //jamo_init_r_h,
   //jamo_init_r_S,
   //jamo_init_m_b,
@@ -869,7 +869,7 @@ var list_jamo_fin = [
   //jamo_fin_r_h,
   //jamo_fin_r_n,
   //jamo_fin_r_d,
-  jamo_fin_r_r,
+  //jamo_fin_r_r,
   jamo_fin_l,
   //jamo_fin_r_z,
   //jamo_fin_r_k,
