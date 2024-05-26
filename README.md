@@ -1,6 +1,6 @@
-# Old Hangul Input Method
+# <span lang="phi-Hang">삐ᄙᅵ삐너</span> <span lang="ko">한글</span> (<span lang="phi">Pilipino</span> <span lang="ko-Latn">Hangeul</span>) IME
 
-This is a Javascript-based IME for typing archaic Korean Hangul letters (e.g. ㅸ, ㅿ, ㅵ) easily in a Unicode-compliant manner. Works in all standards-compliant Web browsers!
+This is a Javascript-based IME (Input Method Editor) for typing <span lang="phi-Hang">삐ᄙᅵ삐너</span> <span lang="ko">한글</span> (<span lang="phi">Pilipino</span> <span lang="ko-Latn">Hangeul</span>) easily in a Unicode-compliant manner. It works well with all Unicode-compliant browsers and fonts.
 
 ## How to run
 
@@ -9,30 +9,9 @@ This is a Javascript-based IME for typing archaic Korean Hangul letters (e.g. �
 
 ## Keyboard layout
 
-![Old Hangul IME keyboard layout](KB_OldHangul.png)
+![삐ᄙᅵ삐너 한글 (Pilipino Hangeul) in Sans-serif](pilipino_hangeul_layout-sans.svg)
+![삐ᄙᅵ삐너 한글 (Pilipino Hangeul) in Serif](pilipino_hangeul_layout-serif.svg)
 
-## Note
+## Important note
 
-* (ㅇ) represents the bottom circular half of the letters ᄛ, ᄝ, ᄫ, ᄬ, ᅗ.
-* The [F] key indicates that any consonants typed after it are for the next syllable block. For instance: ᄋ+ᅡ+ᄉ+ᄃ+ᅡ = 앗다, while ᄋ+ᅡ+[F]+ᄉ+ᄃ+ᅡ = 아ᄯᅡ.
-* For best results, install the 'Noto Sans CJK KR' sans-serif font - most Korean Hangul fonts do not support archaic Hangul.
-  * To try other fonts, open `main.html` in a text editor. In the line containing `font-family: "Noto Sans CJK KR", normal;`, replace 'Noto Sans CJK KR' with the name of the preferred font.
-  * Some other fonts which support archaic Hangul include 'NanumBarunGothic YetHangul' and 'NanumMyeongjo YetHangul' (both are decent looking but are slightly buggy).
-
-## Diagrams
-
-### Hangul jamo hierarchy
-
-This is a diagram of all the Old Hangul characters that can be typed using the Old Hangul Input Method.
-
-![Hangul jamo hierarchy diagram](HangulJamoHierarchyDiagram.png)
-
-### Finite state machine
-
-This diagram shows all the internal states and transitions of the Old Hangul Input Method.
-
-![OldHangulIME_FSM](OldHangulIME_FSM.png)
-
-## TODOs
-
-* Update the jamo hierarchy diagram
+Make sure to learn <span lang="phi-Hang">삐ᄙᅵ삐너</span> <span lang="ko">한글</span> (<span lang="phi">Pilipino</span> <span lang="ko-Latn">Hangeul</span>) first by reading the [삐ᄙᅵ삐너 한글 (Pilipino Hangeul)](https://youronlyone.tiddlyhost.com/#Pilipino%20Hangeul) experiment page.
