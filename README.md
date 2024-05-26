@@ -9,8 +9,8 @@ This is a Javascript-based IME (Input Method Editor) for typing <span lang="phi-
 
 ## Keyboard layout
 
-![삐ᄙᅵ삐너 한글 (Pilipino Hangeul) in Sans-serif](pilipino_hangeul_layout-sans.svg)
-![삐ᄙᅵ삐너 한글 (Pilipino Hangeul) in Serif](pilipino_hangeul_layout-serif.svg)
+![삐ᄙᅵ삐너 한글 (Pilipino Hangeul) in Sans-serif](pilipino_hangeul_layout-sans.svg.png)
+![삐ᄙᅵ삐너 한글 (Pilipino Hangeul) in Serif](pilipino_hangeul_layout-serif.svg.png)
 
 ## Important note
 
