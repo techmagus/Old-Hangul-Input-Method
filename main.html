@@ -1,47 +1,70 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml"><head><!-- header -->
+<!DOCTYPE html>
+<html class="h-feed no-js" lang="en-PH" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <!-- <link rel="canonical" href=""> -->
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- <meta http-equiv="Content-Security-Policy" content="default-src 'self'"> -->
+    <meta name="referrer" content="strict-origin-when-cross-origin">
 
-    <title>Old Hangul IME</title><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-    <meta name="description" content="Use this to write Old Hangul text."/>
+    <meta name="robots" content="all">
+    <meta name="modified" content="2024-05-26T04:10:40Z">
+    <meta name="created" content="2024-05-25T12:21:12Z">
+    <!-- <link rel="license" href=""> -->
 
-<head>
-<style>
-p, h1 {
-    font-family: "Noto Sans", normal;
-}
+    <title>삐ᄙᅵ삐너 한글 (Pilipino Hangeul) IME</title>
+    <meta name="description" class="p-summary" content="A web-based input method editor for the new Pilipino Hangeul keyboard layout.">
+    <!-- <meta name="author" content=""> -->
+    <meta name="keywords" content="삐ᄙᅵ삐너, 한글, Pilipino, Hangeul, keyboard, layout, Philippines, Filipino, Tagalog, Wika">
 
-@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR&display=swap');
-@font-face {
-    font-family: "NotoSansCJK";
-    src: url("NotoSansCJKkr-VF.ttf");
-}
-textarea {
-    font-family: "Noto Sans CJK KR", "Noto Sans KR", "NotoSansCJK", normal;
-    font-size: 30px;
-}
+    <link rel="preconnect" crossorigin href="https://fonts.googleapis.com">
+    <link rel="preconnect" crossorigin href="https://fonts.gstatic.com">
 
-</style>
-</head>
+    <!-- <link rel="dns-prefetch" crossorigin href=""> -->
 
-<body id="body" onload="init();">
-  <div id="header">
-  	<div id="header_inner" class="fixed">
-  		<div id="logo">
-  			<h1>Old Hangul IME</h1>
-  		</div>
-  	</div>
+    <link rel="stylesheet" crossorigin href="https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap" />
+    <link rel="stylesheet" crossorigin href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;700&display=swap" />
+    <link rel="stylesheet" crossorigin href="https://fonts.googleapis.com/css2?family=Noto+Serif+KR:wght@400;700&display=swap" />
+    <link rel="stylesheet" crossorigin href="https://fonts.googleapis.com/css2?family=Noto+Sans+Mono:wght@400;700&display=swap" />
+
+    <meta name="DC.title" content="삐ᄙᅵ삐너 한글 (Pilipino Hangeul) IME">
+    <meta name="geo.region" content="PH-00">
+    <meta name="geo.placename" content="Manila">
+    <meta name="geo.position" content="14.599781;120.973935">
+    <meta name="ICBM" content="14.599781, 120.973935">
+
+    <style>
+      :root, html {
+        font-family: "Noto Sans", "Noto Sans CJK KR", "Noto Sans KR", "Noto Serif CJK KR", "Noto Serif KR", "Noto Sans CJK", "Noto Serif CJK", "Noto Sans Mono", "Noto Mono";
+      }
+      textarea {
+        font-family: "Noto Sans", "Noto Sans CJK KR", "Noto Sans KR", "Noto Sans CJK", sans-serif;
+        /* font-family: "Noto Sans", "Noto Serif CJK KR", "Noto Serif KR", "Noto Serif CJK", serif; */
+        font-size: 30px;
+      }
+    </style>
+  </head>
+
+  <body id="body" onload="init();">
+    <div id="header">
+      <div id="header_inner" class="fixed">
+        <div id="logo">
+          <h1><span lang="phi-Hang">삐ᄙᅵ삐너</span> <span lang="ko">한글</span> (<span lang="fil">Pilipino</span> <span lang="ko-Latn">Hangeul</span>) IME</h1>
+        </div>
+      </div>
       <!-- <div id="printlogo"><img src="/css/logo.gif" alt="DeGraeve.com" width="181" height="25" /></div> -->
-  </div>
-  <!-- /header -->
-  <div id="main">
-    <script src="hangulime.js" type="text/javascript"></script>
-    <form>
-      <p><strong>Type a string of Old Hangul text. Unicode compliant!</strong></p>
-      <textarea id="hangulime" rows="5" cols="20"></textarea>
-    	<p>Keyboard layout reference:</p>
-      <img src="KB_OldHangul.png" alt="Old Hangul IME keyboard layout" width="700"/>
-    </form>
-  </div>
-</body>
-
+    </div>
+    <!-- /header -->
+    <div id="main">
+      <script src="hangulime.js" type="text/javascript"></script>
+      <form>
+        <p><b>Type a string of <span lang="phi-Hang">삐ᄙᅵ삐너</span> <span lang="ko">한글</span> (<span lang="fil">Pilipino</span> <span lang="ko-Latn">Hangeul</span>) text. Unicode compliant!</b></p>
+        <textarea id="hangulime" rows="5" cols="40"></textarea>
+        <p>Keyboard layout reference:</p>
+        <p>This is the standard <span lang="ko">한글</span> (<span lang="ko-Latn">Hangeul</span>) layout, hence, the Latin letters were removed to avoid confusion. The <span lang="ko">한글</span> (<span lang="ko-Latn">Hangeul</span>) layout do not correspond to the Latin letters found on your keyboard.</p>
+        <img src="pilipino_hangeul_layout-sans.svg" alt="Pilipino Hangeul IME keyboard layout" width="700"/>
+        <img src="pilipino_hangeul_layout-serif.svg" alt="Pilipino Hangeul IME keyboard layout" width="700"/>
+      </form>
+    </div>
+  </body>
 </html>
