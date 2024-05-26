@@ -1,0 +1,237 @@
+<?xml version="1.0"?>
+<svg viewBox="0 0 901.59473 301.48999" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" version="1.1">
+  <metadata id="metadata4648">image/svg+xml</metadata>
+
+  <g class="keyboard_layer">
+    <title>Keyboard Layout</title>
+    <g id="layout_boxes">
+      <!-- Backspace --><path d="m840.26,0.51l60.83,0l0,59.99l-60.83,0l0,-59.99z" fill="#dfdfdf" fill-rule="evenodd" id="backspace_key_box" stroke="oklch(0% 0 0)" stroke-dashoffset="0" stroke-miterlimit="4" stroke-width="1.01"/>
+      <!-- Tab --><path d="m0.5,60.5l90,0l0,60l-90,0l0,-60z" fill="#dfdfdf" fill-rule="evenodd" id="tab_key_box" stroke="oklch(0% 0 0)" stroke-dashoffset="0" stroke-miterlimit="4"/>
+      <g id="enter_key_position" transform="matrix(0.951981, 0, 0, 1, 47.6972, 0.0427207)">
+        <path d="m753.82,120.41l47.24,0.03l0,-60.03l95.38,0.05l0.01,120.29l-142.66,-0.34l0.03,-60z" fill="#dfdfdf" fill-rule="evenodd" id="enter_key_box" stroke="oklch(0% 0 0)" stroke-dashoffset="0" stroke-miterlimit="4"/>
+      </g>
+      <!-- Caps Lock --><path d="m0.5,120.5l105,0l0,60l-105,0l0,-60z" fill="#dfdfdf" fill-rule="evenodd" id="caps_lock_key_box" stroke="oklch(0% 0 0)" stroke-dashoffset="0" stroke-miterlimit="4" transform="matrix(1, 0, 0, 1, 0, 0)"/>
+      <!-- Shift_L --><path d="m0.5,180.5l135,0l0,60l-135,0l0,-60z" fill="#dfdfdf" fill-rule="evenodd" id="shift_left_key_box" stroke="oklch(0% 0 0)" stroke-dashoffset="0" stroke-miterlimit="4"/>
+      <g id="shift_right_key_position" transform="matrix(0.961125, 0, 0, 1, -255.173, -137.235)">
+        <path d="m1030.54,317.73l172.5,0l0,60l-172.5,0l0,-60z" fill="#dfdfdf" fill-rule="evenodd" id="shift_right_key_box" stroke="oklch(0% 0 0)" stroke-dashoffset="0" stroke-miterlimit="4"/>
+      </g>
+      <!-- Ctrl_L --><path d="m0.5,240.51l90,0l0,60l-90,0l0,-60z" fill="#dfdfdf" fill-rule="evenodd" id="control_left_key_box" stroke="oklch(0% 0 0)" stroke-dashoffset="0" stroke-miterlimit="4" transform="matrix(1, 0, 0, 1, 0, 0)"/>
+      <!-- Super_L --><path d="m90.53,240.51l60,0l0,60l-60,0l0,-60z" fill="#efefef" fill-rule="evenodd" id="super_left_key_box" stroke="oklch(0% 0 0)" stroke-dashoffset="0" stroke-miterlimit="4" transform="matrix(1, 0, 0, 1, 0, 0)"/>
+      <!-- Alt_L --><path d="m150.53,240.51l90,0l0,60l-90,0l0,-60z" fill="#dfdfdf" fill-rule="evenodd" id="alt_left_box" stroke="oklch(0% 0 0)" stroke-dashoffset="0" stroke-miterlimit="4" transform="matrix(1, 0, 0, 1, 0, 0)"/>
+      <!-- Space --><path d="m240.54,240.51l357.93,0l0,59.99l-357.93,0l0,-59.99z" fill="oklch(100% 0 0)" fill-rule="evenodd" id="space_key_box" stroke="oklch(0% 0 0)" stroke-dashoffset="0" stroke-miterlimit="4" transform="matrix(1, 0, 0, 1, 0, 0)"/>
+      <g id="altgr_super_menu_keys_position" transform="translate(37.2848, -112.783)">
+          <g id="altgr_key_box" transform="translate(-39.4023, 112.796)">
+            <path d="m600.59,240.5l90,0l0,60l-90,0l0,-60z" fill="#dfdfdf" fill-rule="evenodd" id="rect2360-5" stroke="oklch(0% 0 0)" stroke-dashoffset="0" stroke-miterlimit="4"/>
+          </g>
+          <g id="super_right_key_box" transform="translate(-14.2491, -3.66422)">
+            <path d="m665.44,356.96l60,0l0,60l-60,0l0,-60z" fill="#efefef" fill-rule="evenodd" id="rect2366-8" stroke="oklch(0% 0 0)" stroke-dashoffset="0" stroke-miterlimit="4"/>
+          </g>
+          <g id="menu_key_box" transform="translate(-49.6077, 1.17157)">
+            <path d="m760.79,352.13l60,0l0,60l-60,0l0,-60z" fill="#efefef" fill-rule="evenodd" id="rect2368-6" stroke="oklch(0% 0 0)" stroke-dashoffset="0" stroke-miterlimit="4"/>
+          </g>
+      </g>
+      <g id="control_right_key_position" transform="matrix(1.02878, 0, 0, 1, -27.8093, 0.01275)">
+        <path d="m812.9,240.5l90,0l0,60l-90,0l0,-60z" fill="#dfdfdf" fill-rule="evenodd" id="control_right_key_box" stroke="oklch(0% 0 0)" stroke-dashoffset="0" stroke-miterlimit="4"/>
+      </g>
+      <!-- Backtick --><path d="m0.5,0.5l60,0l0,60l-60,0l0,-60z" fill="oklch(100% 0 0)" fill-rule="evenodd" id="backtick_key_box" stroke="oklch(0% 0 0)" stroke-dashoffset="0" stroke-miterlimit="4"/>
+      <g id="numeric_row_boxes">
+        <path d="m60.47,0.5l60,0l0,60l-60,0l0,-60z" fill="oklch(100% 0 0)" fill-rule="evenodd" id="rect2324-1-0-3-2" stroke="oklch(0% 0 0)" stroke-dashoffset="0" stroke-miterlimit="4" transform="matrix(1, 0, 0, 1, 0, 0)"/>
+        <path d="m120.47,0.5l60,0l0,60l-60,0l0,-60z" fill="oklch(100% 0 0)" fill-rule="evenodd" id="path4462" stroke="oklch(0% 0 0)" stroke-dashoffset="0" stroke-miterlimit="4"/>
+        <path d="m180.43,0.5l60,0l0,60l-60,0l0,-60z" fill="oklch(100% 0 0)" fill-rule="evenodd" id="path4464" stroke="oklch(0% 0 0)" stroke-dashoffset="0" stroke-miterlimit="4"/>
+        <path d="m240.43,0.5l60,0l0,60l-60,0l0,-60z" fill="oklch(100% 0 0)" fill-rule="evenodd" id="path4466" stroke="oklch(0% 0 0)" stroke-dashoffset="0" stroke-miterlimit="4"/>
+        <path d="m300.4,0.5l60,0l0,60l-60,0l0,-60z" fill="oklch(100% 0 0)" fill-rule="evenodd" id="path4468" stroke="oklch(0% 0 0)" stroke-dashoffset="0" stroke-miterlimit="4"/>
+        <path d="m360.4,0.5l60,0l0,60l-60,0l0,-60z" fill="oklch(100% 0 0)" fill-rule="evenodd" id="path4470" stroke="oklch(0% 0 0)" stroke-dashoffset="0" stroke-miterlimit="4"/>
+        <path d="m420.36,0.5l60,0l0,60l-60,0l0,-60z" fill="oklch(100% 0 0)" fill-rule="evenodd" id="path4472" stroke="oklch(0% 0 0)" stroke-dashoffset="0" stroke-miterlimit="4"/>
+        <path d="m480.36,0.5l60,0l0,60l-60,0l0,-60z" fill="oklch(100% 0 0)" fill-rule="evenodd" id="path4474" stroke="oklch(0% 0 0)" stroke-dashoffset="0" stroke-miterlimit="4"/>
+        <path d="m540.33,0.5l60,0l0,60l-60,0l0,-60z" fill="oklch(100% 0 0)" fill-rule="evenodd" id="path4476" stroke="oklch(0% 0 0)" stroke-dashoffset="0" stroke-miterlimit="4"/>
+        <path d="m600.33,0.5l60,0l0,60l-60,0l0,-60z" fill="oklch(100% 0 0)" fill-rule="evenodd" id="path4478" stroke="oklch(0% 0 0)" stroke-dashoffset="0" stroke-miterlimit="4"/>
+        <path d="m660.29,0.5l60,0l0,60l-60,0l0,-60z" fill="oklch(100% 0 0)" fill-rule="evenodd" id="path4480" stroke="oklch(0% 0 0)" stroke-dashoffset="0" stroke-miterlimit="4"/>
+      </g>
+      <!-- Minus --><path d="m720.29,0.5l60,0l0,60l-60,0l0,-60z" fill="oklch(100% 0 0)" fill-rule="evenodd" id="minus_key_box" stroke="oklch(0% 0 0)" stroke-dashoffset="0" stroke-miterlimit="4"/>
+      <!-- Equals --><path d="m780.26,0.5l60,0l0,60l-60,0l0,-60z" fill="oklch(100% 0 0)" fill-rule="evenodd" id="equals_key_box" stroke="oklch(0% 0 0)" stroke-dashoffset="0" stroke-miterlimit="4"/>
+      <g id="top_row_boxes">
+        <path d="m90.5,60.5l60,0l0,60l-60,0l0,-60z" fill="oklch(100% 0 0)" fill-rule="evenodd" id="path4760" stroke="oklch(0% 0 0)" stroke-dashoffset="0" stroke-miterlimit="4"/>
+        <path d="m150.47,60.5l60,0l0,60l-60,0l0,-60z" fill="oklch(100% 0 0)" fill-rule="evenodd" id="path4762" stroke="oklch(0% 0 0)" stroke-dashoffset="0" stroke-miterlimit="4"/>
+        <path d="m210.47,60.5l60,0l0,60l-60,0l0,-60z" fill="oklch(100% 0 0)" fill-rule="evenodd" id="path4764" stroke="oklch(0% 0 0)" stroke-dashoffset="0" stroke-miterlimit="4"/>
+        <path d="m270.43,60.5l60,0l0,60l-60,0l0,-60z" fill="oklch(100% 0 0)" fill-rule="evenodd" id="path4766" stroke="oklch(0% 0 0)" stroke-dashoffset="0" stroke-miterlimit="4"/>
+        <path d="m330.43,60.5l60,0l0,60l-60,0l0,-60z" fill="oklch(100% 0 0)" fill-rule="evenodd" id="path4768" stroke="oklch(0% 0 0)" stroke-dashoffset="0" stroke-miterlimit="4"/>
+        <path d="m390.4,60.5l60,0l0,60l-60,0l0,-60z" fill="oklch(100% 0 0)" fill-rule="evenodd" id="path4770" stroke="oklch(0% 0 0)" stroke-dashoffset="0" stroke-miterlimit="4"/>
+        <path d="m450.4,60.5l60,0l0,60l-60,0l0,-60z" fill="oklch(100% 0 0)" fill-rule="evenodd" id="path4772" stroke="oklch(0% 0 0)" stroke-dashoffset="0" stroke-miterlimit="4"/>
+        <path d="m510.36,60.5l60,0l0,60l-60,0l0,-60z" fill="oklch(100% 0 0)" fill-rule="evenodd" id="path4774" stroke="oklch(0% 0 0)" stroke-dashoffset="0" stroke-miterlimit="4"/>
+        <path d="m570.36,60.5l60,0l0,60l-60,0l0,-60z" fill="oklch(100% 0 0)" fill-rule="evenodd" id="path4776" stroke="oklch(0% 0 0)" stroke-dashoffset="0" stroke-miterlimit="4"/>
+        <path d="m630.33,60.5l60,0l0,60l-60,0l0,-60z" fill="oklch(100% 0 0)" fill-rule="evenodd" id="path4778" stroke="oklch(0% 0 0)" stroke-dashoffset="0" stroke-miterlimit="4"/>
+        <path d="m690.33,60.5l60,0l0,60l-60,0l0,-60z" fill="oklch(100% 0 0)" fill-rule="evenodd" id="path4780" stroke="oklch(0% 0 0)" stroke-dashoffset="0" stroke-miterlimit="4"/>
+        <path d="m750.29,60.5l60,0l0,60l-60,0l0,-60z" fill="oklch(100% 0 0)" fill-rule="evenodd" id="path4782" stroke="oklch(0% 0 0)" stroke-dashoffset="0" stroke-miterlimit="4"/>
+      </g>
+      <g id="home_row_boxes">
+        <path d="m105.5,120.5l60,0l0,60l-60,0l0,-60z" fill="oklch(100% 0 0)" fill-rule="evenodd" id="path4794" stroke="oklch(0% 0 0)" stroke-dashoffset="0" stroke-miterlimit="4"/>
+        <path d="m165.47,120.5l60,0l0,60l-60,0l0,-60z" fill="oklch(100% 0 0)" fill-rule="evenodd" id="path4796" stroke="oklch(0% 0 0)" stroke-dashoffset="0" stroke-miterlimit="4"/>
+        <path d="m225.47,120.5l60,0l0,60l-60,0l0,-60z" fill="oklch(100% 0 0)" fill-rule="evenodd" id="path4798" stroke="oklch(0% 0 0)" stroke-dashoffset="0" stroke-miterlimit="4"/>
+        <path d="m285.43,120.5l60,0l0,60l-60,0l0,-60z" fill="oklch(100% 0 0)" fill-rule="evenodd" id="path4800" stroke="oklch(0% 0 0)" stroke-dashoffset="0" stroke-miterlimit="4"/>
+        <path d="m345.43,120.5l60,0l0,60l-60,0l0,-60z" fill="oklch(100% 0 0)" fill-rule="evenodd" id="path4802" stroke="oklch(0% 0 0)" stroke-dashoffset="0" stroke-miterlimit="4"/>
+        <path d="m405.4,120.5l60,0l0,60l-60,0l0,-60z" fill="oklch(100% 0 0)" fill-rule="evenodd" id="path4804" stroke="oklch(0% 0 0)" stroke-dashoffset="0" stroke-miterlimit="4"/>
+        <path d="m465.4,120.5l60,0l0,60l-60,0l0,-60z" fill="oklch(100% 0 0)" fill-rule="evenodd" id="path4806" stroke="oklch(0% 0 0)" stroke-dashoffset="0" stroke-miterlimit="4"/>
+        <path d="m525.36,120.5l60,0l0,60l-60,0l0,-60z" fill="oklch(100% 0 0)" fill-rule="evenodd" id="path4808" stroke="oklch(0% 0 0)" stroke-dashoffset="0" stroke-miterlimit="4"/>
+        <path d="m585.36,120.5l60,0l0,60l-60,0l0,-60z" fill="oklch(100% 0 0)" fill-rule="evenodd" id="path4810" stroke="oklch(0% 0 0)" stroke-dashoffset="0" stroke-miterlimit="4"/>
+        <path d="m645.33,120.5l60,0l0,60l-60,0l0,-60z" fill="oklch(100% 0 0)" fill-rule="evenodd" id="path4812" stroke="oklch(0% 0 0)" stroke-dashoffset="0" stroke-miterlimit="4"/>
+        <path d="m705.33,120.5l60,0l0,60l-60,0l0,-60z" fill="oklch(100% 0 0)" fill-rule="evenodd" id="path4814" stroke="oklch(0% 0 0)" stroke-dashoffset="0" stroke-miterlimit="4"/>
+      </g>
+      <g id="bottom_row_boxes">
+        <path d="m135.5,180.5l60,0l0,60l-60,0l0,-60z" fill="oklch(100% 0 0)" fill-rule="evenodd" id="path4828" stroke="oklch(0% 0 0)" stroke-dashoffset="0" stroke-miterlimit="4"/>
+        <path d="m195.46,180.5l60,0l0,60l-60,0l0,-60z" fill="oklch(100% 0 0)" fill-rule="evenodd" id="path4830" stroke="oklch(0% 0 0)" stroke-dashoffset="0" stroke-miterlimit="4"/>
+        <path d="m255.47,180.5l60,0l0,60l-60,0l0,-60z" fill="oklch(100% 0 0)" fill-rule="evenodd" id="path4832" stroke="oklch(0% 0 0)" stroke-dashoffset="0" stroke-miterlimit="4"/>
+        <path d="m315.43,180.5l60,0l0,60l-60,0l0,-60z" fill="oklch(100% 0 0)" fill-rule="evenodd" id="path4834" stroke="oklch(0% 0 0)" stroke-dashoffset="0" stroke-miterlimit="4"/>
+        <path d="m375.43,180.5l60,0l0,60l-60,0l0,-60z" fill="oklch(100% 0 0)" fill-rule="evenodd" id="path4836" stroke="oklch(0% 0 0)" stroke-dashoffset="0" stroke-miterlimit="4"/>
+        <path d="m435.39,180.5l60,0l0,60l-60,0l0,-60z" fill="oklch(100% 0 0)" fill-rule="evenodd" id="path4838" stroke="oklch(0% 0 0)" stroke-dashoffset="0" stroke-miterlimit="4"/>
+        <path d="m495.4,180.5l60,0l0,60l-60,0l0,-60z" fill="oklch(100% 0 0)" fill-rule="evenodd" id="path4840" stroke="oklch(0% 0 0)" stroke-dashoffset="0" stroke-miterlimit="4"/>
+        <path d="m555.36,180.5l60,0l0,60l-60,0l0,-60z" fill="oklch(100% 0 0)" fill-rule="evenodd" id="path4842" stroke="oklch(0% 0 0)" stroke-dashoffset="0" stroke-miterlimit="4"/>
+        <path d="m615.36,180.5l60,0l0,60l-60,0l0,-60z" fill="oklch(100% 0 0)" fill-rule="evenodd" id="path4844" stroke="oklch(0% 0 0)" stroke-dashoffset="0" stroke-miterlimit="4"/>
+        <path d="m675.32,180.5l60,0l0,60l-60,0l0,-60z" fill="oklch(100% 0 0)" fill-rule="evenodd" id="path4846" stroke="oklch(0% 0 0)" stroke-dashoffset="0" stroke-miterlimit="4"/>
+      </g>
+    </g>
+
+    <g id="key_labels">
+      <g id="backspace_key_labels">
+        <!-- Backspace arrow pointer --><path d="m872.18,36.5l0,-15l-15,7.5l15,7.5z" fill="oklch(0% 0 0)" fill-rule="evenodd" id="path4635"/>
+        <!-- Backspace arrow line --><path d="m894.68,29l-22.5,0" fill="none" id="path4633" stroke="oklch(0% 0 0)" stroke-miterlimit="4" stroke-width="3"/>
+      </g>
+      <g id="tab_key_labels">
+        <!-- Tab label --><text fill="oklch(0% 0 0)" font-family="Noto Sans Mono" font-size="16" font-weight="bold" id="tab_key_label" stroke="oklch(0% 0 0)" stroke-width="0" text-anchor="middle" x="22" xml:space="preserve" y="96">Tab</text>
+        <g id="tab_left_arrow">
+          <!-- Tab left arrow bar --><path d="m45.5,75.5c0,15 0,15 0,15" fill="none" id="path5457-6" stroke="oklch(0% 0 0)" stroke-miterlimit="4" stroke-width="3"/>
+          <!-- Tab left arrow pointer --><path d="m60.5,90.5l0,-15l-15,7.5l15,7.5z" fill="oklch(0% 0 0)" fill-rule="evenodd" id="path5455-0"/>
+          <!-- Tab left arrow line --><path d="m83,83l-28.48,0" fill="none" id="path5453-6" stroke="oklch(0% 0 0)" stroke-miterlimit="4" stroke-width="3"/>
+        </g>
+        <g id="tab_right_arrow">
+          <!-- Tab right arrow line --><path d="m45.5,98l28.48,0" fill="none" id="path5466-1" stroke="oklch(0% 0 0)" stroke-miterlimit="4" stroke-width="3"/>
+          <!-- Tab right arrow pointer --><path d="m68,90.5l0,15l15,-7.5l-15,-7.5z" fill="oklch(0% 0 0)" fill-rule="evenodd" id="path5468-8"/>
+          <!-- Tab right arrow bar --><path d="m83,105.5c0,-15 0,-15 0,-15" fill="none" id="path5470-4" stroke="oklch(0% 0 0)" stroke-miterlimit="4" stroke-width="3"/>
+        </g>
+      </g>
+      <g id="enter_key_labels" transform="matrix(0.951981, 0, 0, 1, 47.6972, 0.0427207)">
+        <!-- Enter label --><text fill="oklch(0% 0 0)" font-family="Noto Sans Mono" font-size="16" font-weight="bold" id="enter_key_label" stroke="oklch(0% 0 0)" stroke-width="0" text-anchor="middle"  x="790" xml:space="preserve" y="155.51">Enter</text>
+        <g id="enter_arrow">
+          <!-- Enter arrow pointer --><path d="m836.42,158l0,-15l-15,7.5l15,7.5z" fill="oklch(0% 0 0)" fill-rule="evenodd" id="path5745-8"/>
+          <!-- Enter arrow line --><path d="m866.42,135.5l0,15l-30,0" fill="none" id="path4241" stroke="oklch(0% 0 0)" stroke-miterlimit="4" stroke-width="3"/>
+        </g>
+      </g>
+      <g id="caps_lock_key_labels">
+        <!-- Caps Lock arrow --><path d="m26.75,146.75l-11.25,15l7.5,0l0,7.5l7.5,0l0,-7.5l7.5,0l-11.25,-15zm-1.03,4.22l2.03,0l3.13,8.62l-1.88,0l-0.59,-1.78l-3.35,0l-0.56,1.78l-1.87,0l3.09,-8.62zm1.03,1.72l-1.22,3.65l2.41,0l-1.19,-3.65z" fill="oklch(0% 0 0)" fill-rule="evenodd" id="path5584-6"/>
+        <!-- Caps Lock label --><text fill="oklch(0% 0 0)" font-family="Noto Sans Mono" font-size="16" font-weight="bold" id="caps_lock_key_label" stroke="oklch(0% 0 0)" stroke-width="0" text-anchor="middle" x="50" xml:space="preserve" y="140">Caps Lock</text>
+      </g>
+      <g id="shift_left_key_labels">
+        <!-- Shift_L label --><text fill="oklch(0% 0 0)" font-family="Noto Sans Mono" font-size="16" font-weight="bold" id="shift_left_key_label" stroke="oklch(0% 0 0)" stroke-width="0" text-anchor="middle" x="31" xml:space="preserve" y="200">Shift</text>
+        <!-- Shift_L arrow --><path d="m27.75,207.69l-11.25,15l7.5,0l0,7.5l7.5,0l0,-7.5l7.5,0l-11.25,-15z" fill="none" id="path5757-1" stroke="oklch(0% 0 0)" stroke-miterlimit="4" stroke-width="2"/>
+      </g>
+      <g id="shift_right_key_labels">
+        <!-- Shift_R label --><text fill="oklch(0% 0 0)" font-family="Noto Sans Mono" font-size="16" font-weight="bold" id="shift_right_key_label" stroke="oklch(0% 0 0)" stroke-width="0" text-anchor="middle" x="769" xml:space="preserve" y="200">Shift</text>
+         <g id="shift_right_key_box" transform="matrix(0.961125, 0, 0, 1, -255.173, -137.235)">
+            <!-- Shift_R arrow --><path d="m1057.79,344.86l-11.25,15l7.5,0l0,7.5l7.5,0l0,-7.5l7.5,0l-11.25,-15z" fill="none" id="path5801-7" stroke="oklch(0% 0 0)" stroke-miterlimit="4" stroke-width="2"/>
+         </g>
+      </g>
+      <!-- Ctrl_L label --><text fill="oklch(0% 0 0)" font-family="Noto Sans Mono" font-size="16" font-weight="bold" id="control_left_key_label" stroke="oklch(0% 0 0)" stroke-width="0" text-anchor="middle" x="27" xml:space="preserve" y="276">Ctrl</text>
+      <!-- Super_L label --><text fill="oklch(0% 0 0)" font-family="Noto Sans Mono" font-size="16" font-weight="bold" id="super_left_key_label" stroke="oklch(0% 0 0)" stroke-width="0" text-anchor="middle" x="121" xml:space="preserve" y="276">Super</text>
+      <!-- Alt_L label --><text fill="oklch(0% 0 0)" font-family="Noto Sans Mono" font-size="16" font-weight="bold" id="alt_left_key_label" stroke="oklch(0% 0 0)" stroke-width="0" text-anchor="middle" x="171" xml:space="preserve" y="276">Alt</text>
+      <!-- AltGr label --><text fill="oklch(0% 0 0)" font-family="Noto Sans Mono" font-size="16" font-weight="bold" id="altgr_key_label" stroke="oklch(0% 0 0)" stroke-width="0" text-anchor="middle" x="630" xml:space="preserve" y="276">AltGr</text>
+      <!-- Super_R label --><text fill="oklch(0% 0 0)" font-family="Noto Sans Mono" font-size="16" font-weight="bold" id="super_right_key_label" stroke="oklch(0% 0 0)" stroke-width="0" text-anchor="middle" x="718" xml:space="preserve" y="276">Super</text>
+      <!-- Menu label --><text fill="oklch(0% 0 0)" font-family="Noto Sans Mono" font-size="16" font-weight="bold" id="menu__keylabel" stroke="oklch(0% 0 0)" stroke-width="0" text-anchor="middle" x="778.5" xml:space="preserve" y="276">Menu</text>
+      <!-- Ctrl_R label --><text fill="oklch(0% 0 0)" font-family="Noto Sans Mono" font-size="16" font-weight="bold" id="control_right_key_label" stroke="oklch(0% 0 0)" stroke-width="0" text-anchor="middle" x="835" xml:space="preserve" y="276">Ctrl</text>
+
+      <g id="top_row">
+        <g id="jamo_p_pp">
+         <text fill="oklch(37.62% 0.183 262.64)" font-family="Noto Sans CJK KR" font-size="24" font-weight="bold" id="jamo_p" stroke="oklch(0% 0 0)" stroke-width="0" text-anchor="middle" x="135" xml:space="preserve" y="115">ㅂ</text>
+         <text fill="oklch(37.62% 0.183 262.64)" font-family="Noto Sans CJK KR" font-size="24" font-weight="bold" id="jamo_pp" stroke="oklch(0% 0 0)" stroke-width="0" text-anchor="middle" x="135" xml:space="preserve" y="86">ㅃ</text>
+        </g>
+        <g id="jamo_j_jj">
+         <text fill="oklch(37.62% 0.183 262.64)" font-family="Noto Sans CJK KR" font-size="24" font-weight="bold" id="jamo_j" stroke="oklch(0% 0 0)" stroke-width="0" text-anchor="middle" x="195" xml:space="preserve" y="115">ㅈ</text>
+         <text fill="oklch(37.62% 0.183 262.64)" font-family="Noto Sans CJK KR" font-size="24" font-weight="bold" id="jamo_jj" stroke="oklch(0% 0 0)" stroke-width="0" text-anchor="middle" x="195" xml:space="preserve" y="86">ㅉ</text>
+        </g>
+        <g id="jamo_t_tt">
+         <text fill="oklch(37.62% 0.183 262.64)" font-family="Noto Sans CJK KR" font-size="24" font-weight="bold" id="jamo_t" stroke="oklch(0% 0 0)" stroke-width="0" text-anchor="middle" x="255" xml:space="preserve" y="115">ㄷ</text>
+         <text fill="oklch(37.62% 0.183 262.64)" font-family="Noto Sans CJK KR" font-size="24" font-weight="bold" id="jamo_tt" stroke="oklch(0% 0 0)" stroke-width="0" text-anchor="middle" x="255" xml:space="preserve" y="86">ㄸ</text>
+        </g>
+        <g id="jamo_k_kk">
+         <text fill="oklch(37.62% 0.183 262.64)" font-family="Noto Sans CJK KR" font-size="24" font-weight="bold" id="jamo_k" stroke="oklch(0% 0 0)" stroke-width="0" text-anchor="middle" x="315" xml:space="preserve" y="115">ㄱ</text>
+         <text fill="oklch(37.62% 0.183 262.64)" font-family="Noto Sans CJK KR" font-size="24" font-weight="bold" id="jamo_kk" stroke="oklch(0% 0 0)" stroke-width="0" text-anchor="middle" x="315" xml:space="preserve" y="86">ㄲ</text>
+        </g>
+        <g id="jamo_s_ss">
+         <text fill="oklch(37.62% 0.183 262.64)" font-family="Noto Sans CJK KR" font-size="24" font-weight="bold" id="jamo_s" stroke="oklch(0% 0 0)" stroke-width="0" text-anchor="middle" x="375" xml:space="preserve" y="115">ㅅ</text>
+         <text fill="oklch(37.62% 0.183 262.64)" font-family="Noto Sans CJK KR" font-size="24" font-weight="bold" id="jamo_ss" stroke="oklch(0% 0 0)" stroke-width="0" text-anchor="middle" x="375" xml:space="preserve" y="86">ㅆ</text>
+        </g>
+        <g id="jamo_yo_blank">
+         <text fill="oklch(51.48% 0.201 15.96)" font-family="Noto Sans CJK KR" font-size="24" font-weight="bold" id="jamo_yo" stroke="oklch(0% 0 0)" stroke-width="0" text-anchor="middle" x="435" xml:space="preserve" y="115">ㅛ</text>
+        </g>
+        <g id="jamo_yeo_blank">
+         <text fill="oklch(51.48% 0.201 15.96)" font-family="Noto Sans CJK KR" font-size="24" font-weight="bold" id="jamo_yeo" stroke="oklch(0% 0 0)" stroke-width="0" text-anchor="middle" x="495" xml:space="preserve" y="115">ㅕ</text>
+        </g>
+        <g id="jamo_ya_blank">
+         <text fill="oklch(51.48% 0.201 15.96)" font-family="Noto Sans CJK KR" font-size="24" font-weight="bold" id="jamo_ya" stroke="oklch(0% 0 0)" stroke-width="0" text-anchor="middle" x="555" xml:space="preserve" y="115">ㅑ</text>
+        </g>
+        <g id="jamo_ae_yae">
+         <text fill="oklch(51.48% 0.201 15.96)" font-family="Noto Sans CJK KR" font-size="24" font-weight="bold" id="jamo_ae" stroke="oklch(0% 0 0)" stroke-width="0" text-anchor="middle" x="615" xml:space="preserve" y="115">ㅐ</text>
+         <text fill="oklch(51.48% 0.201 15.96)" font-family="Noto Sans CJK KR" font-size="24" font-weight="bold" id="jamo_yae" stroke="oklch(0% 0 0)" stroke-width="0" text-anchor="middle" x="615" xml:space="preserve" y="86">ㅒ</text>
+        </g>
+        <g id="jamo_e_ye">
+         <text fill="oklch(51.48% 0.201 15.96)" font-family="Noto Sans CJK KR" font-size="24" font-weight="bold" id="jamo_e" stroke="oklch(0% 0 0)" stroke-width="0" text-anchor="middle" x="675" xml:space="preserve" y="115">ㅔ</text>
+         <text fill="oklch(51.48% 0.201 15.96)" font-family="Noto Sans CJK KR" font-size="24" font-weight="bold" id="jamo_ye" stroke="oklch(0% 0 0)" stroke-width="0" text-anchor="middle" x="675" xml:space="preserve" y="86">ㅖ</text>
+        </g>
+      </g>
+      <g id="home_row">
+        <g id="jamo_m_blank">
+         <text fill="oklch(37.62% 0.183 262.64)" font-family="Noto Sans CJK KR" font-size="24" font-weight="bold" id="jamo_m" stroke="oklch(0% 0 0)" stroke-width="0" text-anchor="middle" x="150" xml:space="preserve" y="175">ㅁ</text>
+        </g>
+        <g id="jamo_n_blank">
+         <text fill="oklch(37.62% 0.183 262.64)" font-family="Noto Sans CJK KR" font-size="24" font-weight="bold" id="jamo_n" stroke="oklch(0% 0 0)" stroke-width="0" text-anchor="middle" x="210" xml:space="preserve" y="175">ㄴ</text>
+        </g>
+        <g id="jamo_null_ng">
+         <text fill="oklch(37.62% 0.183 262.64)" font-family="Noto Sans CJK KR" font-size="24" font-weight="bold" id="jamo_null" stroke="oklch(0% 0 0)" stroke-width="0" text-anchor="middle" x="270" xml:space="preserve" y="175">ㅇ</text>
+         <text fill="oklch(78.29% 0.16 90.69)" font-family="Noto Sans CJK KR" font-size="24" font-weight="bold" id="jamo_ng" stroke="oklch(0% 0 0)" stroke-width="0" text-anchor="middle" x="270" xml:space="preserve" y="146">ㆁ</text>
+        </g>
+        <g id="jamo_r_l">
+         <text fill="oklch(37.62% 0.183 262.64)" font-family="Noto Sans CJK KR" font-size="24" font-weight="bold" id="jamo_r" stroke="oklch(0% 0 0)" stroke-width="0" text-anchor="middle" x="330" xml:space="preserve" y="175">ㄹ</text>
+         <!-- guide: <text fill="oklch(0% 0 0)" font-family="Noto Sans CJK KR" font-size="24" font-weight="bold" id="jamo_guide_l" stroke="oklch(0% 0 0)" stroke-width="0" text-anchor="middle" x="330" xml:space="preserve" y="146">ㄻ</text> -->
+         <!-- backup: <text fill="oklch(78.29% 0.16 90.69)" font-family="Noto Sans CJK KR" font-size="24" font-weight="bold" id="jamo_l" stroke="oklch(0% 0 0)" stroke-width="0" text-anchor="middle" transform="matrix(1, 0, 0, 1.4783, 0, 0)" x="330" xml:space="preserve" y="106.1942">ᄙ</text> -->
+         <text fill="oklch(78.29% 0.16 90.69)" font-family="Noto Sans CJK KR" font-size="24" font-weight="bold" id="jamo_l" stroke="oklch(0% 0 0)" stroke-width="0" text-anchor="middle" transform="matrix(1, 0, 0, 1.4783, 0, 0)" x="330" xml:space="preserve" y="106.1942">ᄙ</text>
+        </g>
+        <g id="jamo_h_blank">
+         <text fill="oklch(37.62% 0.183 262.64)" font-family="Noto Sans CJK KR" font-size="24" font-weight="bold" id="jamo_h" stroke="oklch(0% 0 0)" stroke-width="0" text-anchor="middle" x="390" xml:space="preserve" y="175">ㅎ</text>
+        </g>
+        <g id="jamo_o_blank">
+         <text fill="oklch(51.48% 0.201 15.96)" font-family="Noto Sans CJK KR" font-size="24" font-weight="bold" id="jamo_o" stroke="oklch(0% 0 0)" stroke-width="0" text-anchor="middle" x="450" xml:space="preserve" y="175">ㅗ</text>
+        </g>
+        <g id="jamo_eo_blank">
+         <text fill="oklch(51.48% 0.201 15.96)" font-family="Noto Sans CJK KR" font-size="24" font-weight="bold" id="jamo_eo" stroke="oklch(0% 0 0)" stroke-width="0" text-anchor="middle" x="510" xml:space="preserve" y="175">ㅓ</text>
+        </g>
+        <g id="jamo_a_blank">
+         <text fill="oklch(51.48% 0.201 15.96)" font-family="Noto Sans CJK KR" font-size="24" font-weight="bold" id="jamo_a" stroke="oklch(0% 0 0)" stroke-width="0" text-anchor="middle" x="570" xml:space="preserve" y="175">ㅏ</text>
+        </g>
+        <g id="jamo_i_blank">
+         <text fill="oklch(51.48% 0.201 15.96)" font-family="Noto Sans CJK KR" font-size="24" font-weight="bold" id="jamo_i" stroke="oklch(0% 0 0)" stroke-width="0" text-anchor="middle" x="630" xml:space="preserve" y="175">ㅣ</text>
+        </g>
+      </g>
+      <g id="bottom_row">
+        <g id="jamo_kh_blank">
+         <text fill="oklch(37.62% 0.183 262.64)" font-family="Noto Sans CJK KR" font-size="24" font-weight="bold" id="jamo_kh" stroke="oklch(0% 0 0)" stroke-width="0" text-anchor="middle" x="180" xml:space="preserve" y="235">ㅋ</text>
+        </g>
+        <g id="jamo_th_blank">
+         <text fill="oklch(37.62% 0.183 262.64)" font-family="Noto Sans CJK KR" font-size="24" font-weight="bold" id="jamo_th" stroke="oklch(0% 0 0)" stroke-width="0" text-anchor="middle" x="240" xml:space="preserve" y="235">ㅌ</text>
+        </g>
+        <g id="jamo_ch_blank">
+         <text fill="oklch(37.62% 0.183 262.64)" font-family="Noto Sans CJK KR" font-size="24" font-weight="bold" id="jamo_ch" stroke="oklch(0% 0 0)" stroke-width="0" text-anchor="middle" x="300" xml:space="preserve" y="235">ㅊ</text>
+        </g>
+        <g id="jamo_ph_blank">
+         <text fill="oklch(37.62% 0.183 262.64)" font-family="Noto Sans CJK KR" font-size="24" font-weight="bold" id="jamo_ph" stroke="oklch(0% 0 0)" stroke-width="0" text-anchor="middle" x="360" xml:space="preserve" y="235">ㅍ</text>
+        </g>
+        <g id="jamo_yu_blank">
+         <text fill="oklch(51.48% 0.201 15.96)" font-family="Noto Sans CJK KR" font-size="24" font-weight="bold" id="jamo_yu" stroke="oklch(0% 0 0)" stroke-width="0" text-anchor="middle" x="420" xml:space="preserve" y="235">ㅠ</text>
+        </g>
+        <g id="jamo_u_blank">
+         <text fill="oklch(51.48% 0.201 15.96)" font-family="Noto Sans CJK KR" font-size="24" font-weight="bold" id="jamo_u" stroke="oklch(0% 0 0)" stroke-width="0" text-anchor="middle" x="480" xml:space="preserve" y="235">ㅜ</text>
+        </g>
+        <g id="jamo_eu_blank">
+         <text fill="oklch(51.48% 0.201 15.96)" font-family="Noto Sans CJK KR" font-size="24" font-weight="bold" id="jamo_eu" stroke="oklch(0% 0 0)" stroke-width="0" text-anchor="middle" x="540" xml:space="preserve" y="235">ㅡ</text>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
