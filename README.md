@@ -18,4 +18,4 @@ Make sure to learn <span lang="phi-Hang">삐ᄙᅵ삐너</span> <span lang="ko">
 
 ## Attribution
 
-The <span lang="phi-Hang">삐ᄙᅵ삐너</span> <span lang="ko">한글</span> (<span lang="phi">Pilipino</span> <span lang="ko-Latn">Hangeul</span>) IME projet was forked from the [Old Hangul Input Method](https://github.com/5hwb/Old-Hangul-Input-Method) project which was developed by [Perry Hartono](https://github.com/5hwb), under an **Apache 2.0 License**.
+The <span lang="phi-Hang">삐ᄙᅵ삐너</span> <span lang="ko">한글</span> (<span lang="phi">Pilipino</span> <span lang="ko-Latn">Hangeul</span>) IME project was forked from the [Old Hangul Input Method](https://github.com/5hwb/Old-Hangul-Input-Method) project which was developed by [Perry Hartono](https://github.com/5hwb) under an **Apache 2.0 License**.
