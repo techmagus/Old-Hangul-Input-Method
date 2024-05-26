@@ -37,6 +37,18 @@
       :root, html {
         font-family: "Noto Sans", "Noto Sans CJK KR", "Noto Sans KR", "Noto Serif CJK KR", "Noto Serif KR", "Noto Sans CJK", "Noto Serif CJK", "Noto Sans Mono", "Noto Mono";
       }
+      :lang(en-ph),
+      :lang(fil),
+      :lang(phi) {
+        font-family: "Noto Sans", sans-serif;
+      }
+      :lang(ko),
+      :lang(phi-Hang) {
+        font-family: "Noto Sans", "Noto Serif CJK KR", "Noto Serif KR", "Noto Serif CJK", serif;
+      }
+      :lang(ko-Latn) {
+        font-family: "Noto Sans", sans-serif;
+      }
       textarea {
         font-family: "Noto Sans", "Noto Sans CJK KR", "Noto Sans KR", "Noto Sans CJK", sans-serif;
         /* font-family: "Noto Sans", "Noto Serif CJK KR", "Noto Serif KR", "Noto Serif CJK", serif; */
@@ -58,12 +70,12 @@
     <div id="main">
       <script src="hangulime.js" type="text/javascript"></script>
       <form>
-        <p><b>Type a string of <span lang="phi-Hang">삐ᄙᅵ삐너</span> <span lang="ko">한글</span> (<span lang="fil">Pilipino</span> <span lang="ko-Latn">Hangeul</span>) text. Unicode compliant!</b></p>
+        <p>This is a Unicode-compliant IME (Input Method Editor). It's recommended to learn <span lang="phi-Hang">삐ᄙᅵ삐너</span> <span lang="ko">한글</span></a> (<span lang="fil">Pilipino</span> <span lang="ko-Latn">Hangeul</span>) by reading the <a href="https://youronlyone.tiddlyhost.com/#Pilipino%20Hangeul">project's page</a>.</p>
         <textarea id="hangulime" rows="5" cols="40"></textarea>
-        <p>Keyboard layout reference:</p>
-        <p>This is the standard <span lang="ko">한글</span> (<span lang="ko-Latn">Hangeul</span>) layout, hence, the Latin letters were removed to avoid confusion. The <span lang="ko">한글</span> (<span lang="ko-Latn">Hangeul</span>) layout do not correspond to the Latin letters found on your keyboard.</p>
+        <p>This is the standard <span lang="ko">한글</span> (<span lang="ko-Latn">Hangeul</span>) layout. The Latin letters were removed to avoid confusion. The pronunciation of <span lang="ko">한글</span> (<span lang="ko-Latn">Hangeul</span>) do not correspond to the Latin letters found on a keyboard.</p>
         <img src="pilipino_hangeul_layout-sans.svg" alt="Pilipino Hangeul IME keyboard layout" width="700"/>
         <img src="pilipino_hangeul_layout-serif.svg" alt="Pilipino Hangeul IME keyboard layout" width="700"/>
+        <p>Feel free to contribute, or fork, the <a href="https://github.com/techmagus/pilipino-hangeul"><span lang="phi-Hang">삐ᄙᅵ삐너</span> <span lang="ko">한글</span> (<span lang="fil">Pilipino</span> <span lang="ko-Latn">Hangeul</span>) IME</a> project.</p>
       </form>
     </div>
   </body>
