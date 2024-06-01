@@ -27,7 +27,7 @@ The new name can mean the following:
 
 ## Important note
 
-Make sure to learn <span lang="phi-Hang">마부하미</span> <span lang="ko">한글</span> (<span lang="phi">Mabuhay</span> <span lang="ko-Latn">Hangeul</span>) first by reading the [마부하미 한글 (Mabuhay Hangeul)](https://youronlyone.tiddlyhost.com/#Pilipino%20Hangeul) experiment page.
+Make sure to learn <span lang="phi-Hang">마부하미</span> <span lang="ko">한글</span> (<span lang="phi">Mabuhay</span> <span lang="ko-Latn">Hangeul</span>) first by reading the [마부하미 한글 (Mabuhay Hangeul)](https://youronlyone.tiddlyhost.com/#Mabuhay%20Hangeul) experiment page.
 
 ## Copyright and License
 
